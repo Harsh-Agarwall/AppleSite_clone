@@ -41,7 +41,7 @@ It focuses on delivering a **smooth, interactive, and visually rich user experie
 
 ## 📂 Project Structure
 
-```
+```bash
 AppleSite_clone/
 │── public/
 │── src/
