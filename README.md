@@ -41,7 +41,7 @@ It focuses on delivering a **smooth, interactive, and visually rich user experie
 
 ## 📂 Project Structure
 
-
+```
 AppleSite_clone/
 │── public/
 │── src/
@@ -54,7 +54,7 @@ AppleSite_clone/
 │── README.md
 
 ---
-
+```
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
