@@ -2,7 +2,7 @@
 
 A high-fidelity clone of Apple's MacBook landing page featuring **smooth animations**, **scroll-based storytelling**, and **3D-like interactions** built using **React.js** and **GSAP**.
 
-🔗 **Live Demo:** https://your-vercel-link.vercel.app/
+🔗 **Live Demo:** https://apple-site-clone-alpha.vercel.app/
 
 ---
 
